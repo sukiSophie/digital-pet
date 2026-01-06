@@ -2,17 +2,17 @@
     "api_provider": "deepseek",
     "api_settings": {
         "deepseek": {
-            "api_key": "sk-245902937502449286f753c4f52ac2df",
+            "api_key": "",
             "base_url": "https://api.deepseek.com/v1",
             "model_name": "deepseek-chat"
         },
         "model_scope": {
             "api_key": "",
-            "base_url": "https://api-inference.modelscope.cn/v1/",
+            "base_url": "",
             "model_name": "deepseek-ai/DeepSeek-V3.2"
         },
         "zhipu": {
-            "api_key": "0410d2a6e0814e578ae293c01ebae2e9.KajYOr64YnGD7d3X",
+            "api_key": "",
             "base_url": "https://open.bigmodel.cn/api/paas/v4",
             "model_name": "glm-4-flash"
         }
